@@ -1,1 +1,3 @@
-# hello-worls
+# hello-world
+
+testiram kako to deluje...
